@@ -1,0 +1,33 @@
+
+div,iframe {
+  width: 84% !important;
+  margin: auto;
+  display: block;
+  border: 1px solid #ccc;
+  border-bottom: 1px solid #d1d1d1;
+  background: #f8f8f8;
+  white-space: normal;
+}
+iframe{
+  height:600px !important;
+	background-color: white;
+}
+div {
+  border: none;
+  margin-bottom: 10px;
+}
+button,input,select {
+  margin:5px;
+}
+button {
+	display: inline-block;
+    height: 33px;
+    padding: 4px 6px;
+    outline: 0;
+    cursor: default;
+    float: left;
+    border: 0;
+    position: relative;
+    margin: 0px;
+	cursor: pointer;
+}
